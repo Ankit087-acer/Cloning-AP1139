@@ -1,4 +1,4 @@
-Github Practice Questions
+# Github Practice Questions
 
 1. cloning repositories
 
