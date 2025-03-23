@@ -1,7 +1,7 @@
 Github Practice Questions
 
-cloning repositories
+1. cloning repositories
 
-forking repositories
+2. forking repositories
 
-pull request 
+3. pull request 
